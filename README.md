@@ -1,4 +1,5 @@
 <div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=FF2D4C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+SeoLynn+Jeong)](https://git.io/typing-svg)
 
 <br>
@@ -17,4 +18,6 @@
 
  <a href="https://github.com/seolynnE"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolynnE&layout=compact&hide_border=true&bg_color=30,EF6DA0,EE8E6B&title_color=fff&text_color=fff" /></a>
  
- </div>
+ 
+ 
+</div>
