@@ -1,8 +1,10 @@
 <div align="center">
 
-<div style='width: 100%; background-color:#303030;padding: 40px 0;'>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=FF2D4C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+SeoLynn+Jeong)](https://git.io/typing-svg)
-</div>
+ <div style='width: 100%; background-color:#303030;padding: 40px 0;'>
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=FF2D4C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+SeoLynn+Jeong)](https://git.io/typing-svg)
+ 
+ </div>
 <br>
 
 ### 🛠Tech Stack🛠
