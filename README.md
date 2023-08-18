@@ -1,5 +1,6 @@
 <div align="center">
 
+<br><br><br>
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=FF2D4C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+SeoLynn+Jeong)](https://git.io/typing-svg)
  
