@@ -1,6 +1,5 @@
 <div align="center">
 
- <div style='width: 100%; background-color:#303030;padding: 40px 0;'></div>
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=FF2D4C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+SeoLynn+Jeong)](https://git.io/typing-svg)
  
@@ -24,7 +23,7 @@
 
 ### ✍SNS✍
 
-<a href="https://velog.io/@maetamong" target="_blank">https://velog.io/@maetamong</a>   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Tech%20Blog)](https://velog.io/@maetamong) 
 
 
 <br><br><br>
